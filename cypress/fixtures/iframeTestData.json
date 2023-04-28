@@ -1,0 +1,10 @@
+{
+  "BOLD": {
+    "formatType": "Bold",
+    "text": "Cypress Testing"
+  },
+  "ITALIC": {
+    "formatType": "Italic",
+    "text": "Text Format Validation"
+  }
+}
