@@ -16,4 +16,4 @@ After cloning the repository, please follow any of the mentioned way to execute 
     *   Execute command 'npm run CypressTests' (this will execute the tests in headless electron browser)
 
 **To execute javascript program from terminal:**
-* Execute command 'npm run JSProgramFile'
+* Execute command 'npm run featurefilename'
